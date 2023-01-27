@@ -90,6 +90,7 @@ section.hero .down-arrow {
   bottom: 8em;
   width: 1em;
   animation: moveArrow 1s alternate-reverse infinite;
+  rotate: -90deg;
 }
 section.hero .down-arrow path {
   fill: white;
